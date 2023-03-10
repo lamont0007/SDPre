@@ -3,7 +3,7 @@ public class Objective2Lab1 {
     String hello = "Hello World";
 
     /*
-      Your solution goes here
+      Hello World
     */
   }
 }
