@@ -6,7 +6,7 @@ public class Objective3Lab1 {
       num1 = 9;
       num2 = 10;
       num3 = 21;
-      average = 10;
+      average = 13.3333333;
 
       System.out.println(average);
 
