@@ -15,6 +15,10 @@ public static void main(String[] args) {
       }
       else if(userNum % 2 == 1){
         System.out.println("The number is odd");
+
+
       }
+
+      scanner.close();
       }
     }
