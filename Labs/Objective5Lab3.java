@@ -20,6 +20,6 @@ public class Objective5Lab3 {
       }
       
 
-      scanner.close();
+      scanner.close( );
   }
 }
