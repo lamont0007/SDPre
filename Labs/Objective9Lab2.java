@@ -1,0 +1,26 @@
+public class Objective9Lab2 {
+  public static void main(String[] args) {
+    System.out.println("In main");
+    printMessage();
+    System.out.println("In main");
+  }
+
+  public static void printMessage() {
+
+  printName(); 
+    
+  }
+
+  public static void printName() {
+    System.out.println("In Method");
+  }
+{
+
+  println(); 
+    
+  }
+
+  public static void println() {
+    System.out.println("HIn Main");
+  }
+  }
